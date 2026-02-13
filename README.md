@@ -1,6 +1,6 @@
 ### /escape
 
-We find ourselves in an epoch that is part alpha, part beta—an unfinished code straddling democracy and authoritarianism.
+We find ourselves in an epoch that is part alpha, part beta — an unfinished code straddling democracy and authoritarianism.
 The choice is ours: escape the manufactured reality and reclaim agency, creativity, and empathy:
 
 <!--
