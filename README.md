@@ -1,4 +1,4 @@
-### /escape
+### / escape
 
 We find ourselves in an epoch that is part alpha, part beta — an unfinished code straddling democracy and authoritarianism.
 The choice is ours: escape the manufactured reality and reclaim agency, creativity, and empathy:
@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=escape&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=escape)](https://github.com/ryo-ma/github-profile-trophy)
