@@ -1,6 +1,6 @@
 ### / escape
 
-![swim](miromarion.jpg "swim")
+![Image: https://www.flickr.com/photos/daniel-martin-adventure/5260679750](miromarion.jpg "Image: https://www.flickr.com/photos/daniel-martin-adventure/5260679750")
 
 We find ourselves in an epoch that is part alpha, part beta — an unfinished code straddling democracy and authoritarianism. 
 
