@@ -8,13 +8,13 @@ We find ourselves in an epoch that is part alpha, part beta — an unfinished co
 
 Below, you’ll find tools to escape the manufactured reality and reclaim agency, creativity, empathy and democracy:
 
+→ **My Repos**
+
+(Below: projects I’m building for this mission)
+
 → **Curated Resources**
 
 (Awesome List of public repos to help us break free here)
-
-→ **My Repos**
-
-(Below: projects I’ve built for the same mission)
 
 
 <!--
