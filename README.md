@@ -10,11 +10,11 @@ Below, you’ll find tools to escape the manufactured reality and reclaim agency
 
 → **My Repos**
 
-(Below: projects I’m building for this mission)
+(Scroll down for the projects I’m building for this mission)
 
 → **Curated Resources**
 
-(Awesome List of public repos to help us break free here)
+(Awesome List of public repos to help us break free here — Soon)
 
 
 <!--
