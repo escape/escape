@@ -1,11 +1,9 @@
 
 ![Image: https://www.flickr.com/photos/daniel-martin-adventure/5260679750](miromarion.jpg "Image: https://www.flickr.com/photos/daniel-martin-adventure/5260679750")
 
-### My political views, as code
+# My political views, as code
 
-## We find ourselves in a gray zone straddling democracy and authoritarianism
-
-### The choice is ours. Below, you’ll find tools to escape the manufactured realities and reclaim political power
+We find ourselves in a gray zone straddling democracy and authoritarianism. The choice is ours. Below, you’ll find tools to escape the manufactured realities and reclaim political power:
 
 → **My Repos**
 Scroll down for the projects I’m building for this mission
