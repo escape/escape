@@ -5,9 +5,8 @@ My production company (stealth):
 [reeva.org](https://reeva.org)
 
 
-![Image: One of more than 180, one meter high sculptures created for the Music On campaigns between 2013 and 2019.](miromarion-musicon.jpg "Image: One of more than 180, one meter high sculptures created for the Music On campaigns between 2013 and 2019.")
-*One of more than 180, one meter tall sculptures I created for the Music On campaigns between 2013 and 2019.
-Geometrically folded and welded steel. Structure and spontaneity, underground and mainstream.
+![Image: One of more than 180, one meter high sculptures created for the Music On campaigns between 2013 and 2019.](musicon-nyc-2.jpg "Music On – Copper Sculpture, New York 2017")
+*Music On – Copper Sculpture, New York 2017. Hand-crafted copper elements, assembled into a one-metre-high emblem. Designed for Music On’s second New York season, this piece deconstructed the crown of the Statue of Liberty into the minimalist, geometric form of the Music On logo. One of more than 180, one meter high sculptures created for the Music On campaigns between 2013 and 2019.
 
 # My political views, as code
 
