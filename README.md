@@ -1,17 +1,20 @@
 My work:
-[miromarion.com (beta)](https://miromarion.com)
+[miromarion.com](https://miromarion.com)
 
 My production company (stealth):
 [reeva.org](https://reeva.org)
 
 
 ![Image: One of more than 180, one meter high sculptures created for the Music On campaigns between 2013 and 2019.](miromarion-musicon.jpg "Image: One of more than 180, one meter high sculptures created for the Music On campaigns between 2013 and 2019.")
+*One of more than 180, one meter tall sculptures I created for the Music On campaigns between 2013 and 2019.
+
+Geometrically folded and welded steel, precision-engineered using calculated angles and planes, fusing industrial solidity with mathematical harmony. The facets capture light and shadow in a way that mirrors the Music On brand's balance between structure and spontaneity, underground and mainstream.*
 
 # My political views, as code
 
 We find ourselves in a gray zone straddling democracy and authoritarianism. The choice is ours. Below, you’ll find tools to escape the manufactured realities and reclaim political power:
 
-## → My Projects
+## ↓ My Projects
 Scroll down for the pinned projects I’m building for this mission
 
 ## → Curated Resources
