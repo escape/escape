@@ -1,4 +1,7 @@
-[My work.](https://miromarion.com)
+My work:
+[miromarion.com](https://miromarion.com)
+
+My production company (stealth):
 [My sovereign AI startup.](https://brenta.io)
 
 
