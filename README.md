@@ -2,7 +2,9 @@
 
 ![Image: https://www.flickr.com/photos/daniel-martin-adventure/5260679750](miromarion.jpg "Image: https://www.flickr.com/photos/daniel-martin-adventure/5260679750")
 
-## We find ourselves in a gray zone straddling democracy and authoritarianism. The choice is ours 
+## We find ourselves in a gray zone straddling democracy and authoritarianism. 
+
+## The choice is ours 
 
 ### Below, you’ll find tools to escape the manufactured realities and reclaim political power:
 
