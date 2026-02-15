@@ -10,7 +10,7 @@
 Scroll down for the projects I’m building for this mission
 
 → **Curated Resources**
-Awesome List of public repos to help us break free — Soon
+[Awesome Privacy: List of free, open source and privacy respecting services and alternatives to privative services.](https://github.com/pluja/awesome-privacy)
 
 
 <!--
