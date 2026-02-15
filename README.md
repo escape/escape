@@ -7,8 +7,7 @@ My production company (stealth):
 
 ![Image: One of more than 180, one meter high sculptures created for the Music On campaigns between 2013 and 2019.](miromarion-musicon.jpg "Image: One of more than 180, one meter high sculptures created for the Music On campaigns between 2013 and 2019.")
 *One of more than 180, one meter tall sculptures I created for the Music On campaigns between 2013 and 2019.
-
-Geometrically folded and welded steel, precision-engineered using calculated angles and planes, fusing industrial solidity with mathematical harmony. The facets capture light and shadow in a way that mirrors the Music On brand's balance between structure and spontaneity, underground and mainstream.*
+Geometrically folded and welded steel. Structure and spontaneity, underground and mainstream.
 
 # My political views, as code
 
