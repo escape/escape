@@ -2,19 +2,19 @@
 
 ![Image: https://www.flickr.com/photos/daniel-martin-adventure/5260679750](miromarion.jpg "Image: https://www.flickr.com/photos/daniel-martin-adventure/5260679750")
 
-We find ourselves in an epoch that is part alpha, part beta — an unfinished code straddling democracy and authoritarianism. 
+We find ourselves in a gray zone straddling democracy and authoritarianism. 
 
 **The choice is ours.** 
 
-Below, you’ll find tools to escape the manufactured reality and reclaim agency, creativity, empathy and democracy:
+Below, you’ll find tools to escape the manufactured realities and reclaim political power:
 
 → **My Repos**
 
-(Scroll down for the projects I’m building for this mission)
+(Scroll down for the proofs of concept I’m building for this mission)
 
 → **Curated Resources**
 
-(Awesome List of public repos to help us break free here — Soon)
+(Awesome List of public repos to help us break free — Soon)
 
 
 <!--
