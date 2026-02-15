@@ -5,7 +5,7 @@ My production company (stealth):
 [reeva.org](https://reeva.org)
 
 
-![Image: https://www.flickr.com/photos/daniel-martin-adventure/5260679750](miromarion.jpg "Image: https://www.flickr.com/photos/daniel-martin-adventure/5260679750")
+![Image: One of more than 180, one meter high sculptures created for the Music On campaigns between 2013 and 2019.](miromarion-musicon.jpg "Image: One of more than 180, one meter high sculptures created for the Music On campaigns between 2013 and 2019.")
 
 # My political views, as code
 
