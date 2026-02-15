@@ -5,11 +5,13 @@
 
 We find ourselves in a gray zone straddling democracy and authoritarianism. The choice is ours. Below, you’ll find tools to escape the manufactured realities and reclaim political power:
 
-→ **My Repos**
+## → My Projects
 Scroll down for the projects I’m building for this mission
 
-→ **Curated Resources**
-[Awesome Privacy: List of free, open source and privacy respecting services and alternatives to privative services.](https://github.com/pluja/awesome-privacy)
+## → Curated Resources
+
+Awesome Privacy
+[List of free, open source and privacy respecting services and alternatives to privative services.](https://github.com/pluja/awesome-privacy)
 
 
 <!--
