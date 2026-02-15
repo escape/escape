@@ -8,10 +8,10 @@ My production company (stealth):
 
 We find ourselves in a gray zone straddling democracy and authoritarianism. The choice is ours. Below, you’ll find tools to escape the manufactured realities and reclaim political power:
 
-## ↓ My Projects
+#### ↓ My repos
 Scroll down for the pinned projects I’m building for this mission
 
-## → Curated Resources
+#### → Curated Resources
 
 Awesome Privacy
 [List of free, open source and privacy respecting services and alternatives to privative services.](https://github.com/pluja/awesome-privacy)
