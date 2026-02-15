@@ -4,7 +4,7 @@ My work:
 My production company (stealth):
 [reeva.org](https://reeva.org)
 
-# My political views, as code
+## My political views — as code
 
 We find ourselves in a gray zone straddling democracy and authoritarianism. The choice is ours. Below, you’ll find tools to escape the manufactured realities and reclaim political power:
 
