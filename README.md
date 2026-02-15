@@ -4,9 +4,9 @@ My work:
 My production company (stealth):
 [reeva.org](https://reeva.org)
 
+![Copper sculpture of a deconstructed Statue of Liberty crown in geometric Music On logo form, displayed on a New York street, crafted between 2013 and 2019](musicon-nyc-2.jpg "Music On – Copper Sculpture, New York 2017")
 
-![Image: One of more than 180, one meter high sculptures created for the Music On campaigns between 2013 and 2019.](musicon-nyc-2.jpg "Music On – Copper Sculpture, New York 2017")
-*Music On – Copper Sculpture, New York 2017. Hand-crafted copper elements, assembled into a one-metre-high emblem. Designed for Music On’s second New York season, this piece deconstructed the crown of the Statue of Liberty into the minimalist, geometric form of the Music On logo. One of more than 180, one meter high sculptures created for the Music On campaigns between 2013 and 2019.
+*Music On – Copper Sculpture, New York 2017. Hand-crafted copper sculpture approximately one metre high, featuring a minimalist geometric interpretation of the Statue of Liberty crown merged with the Music On logo design. Created for Music On's 2017 New York seasonal campaign. One of over 180 similar sculptures produced for Music On campaigns spanning 2013 to 2019.*
 
 # My political views, as code
 
