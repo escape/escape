@@ -1,6 +1,7 @@
-### Marketing is political. Here are my political views — as code
 
 ![Image: https://www.flickr.com/photos/daniel-martin-adventure/5260679750](miromarion.jpg "Image: https://www.flickr.com/photos/daniel-martin-adventure/5260679750")
+
+### My political views, as code
 
 ## We find ourselves in a gray zone straddling democracy and authoritarianism
 
