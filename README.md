@@ -2,7 +2,7 @@ My work:
 [miromarion.com](https://miromarion.com)
 
 My production company (stealth):
-[My sovereign AI startup.](https://brenta.io)
+[reeva.org](https://reeva.org)
 
 
 ![Image: https://www.flickr.com/photos/daniel-martin-adventure/5260679750](miromarion.jpg "Image: https://www.flickr.com/photos/daniel-martin-adventure/5260679750")
