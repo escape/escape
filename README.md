@@ -1,3 +1,6 @@
+[My work.](https://miromarion.com)
+[My sovereign AI startup.](https://brenta.io)
+
 
 ![Image: https://www.flickr.com/photos/daniel-martin-adventure/5260679750](miromarion.jpg "Image: https://www.flickr.com/photos/daniel-martin-adventure/5260679750")
 
