@@ -11,7 +11,7 @@ We find ourselves in a gray zone straddling democracy and authoritarianism. The 
 #### ↓ My repos
 Scroll down for the pinned projects I’m building for this mission
 
-#### → Curated Resources
+#### ↓ Curated Resources
 
 Awesome Privacy
 [List of free, open source and privacy respecting services and alternatives to privative services.](https://github.com/pluja/awesome-privacy)
