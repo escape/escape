@@ -24,5 +24,10 @@ Scroll down for the pinned projects I’m building for this mission
 
 #### Awesome Privacy
 
-List of free, open source and privacy respecting services and alternatives to privative services.
+List of free, open source and privacy respecting services and alternatives to privative services
 [https://github.com/pluja/awesome-privacy](https://github.com/pluja/awesome-privacy)
+
+#### Privacy Respecting
+
+Curated List of Privacy Respecting Services and Software
+[https://github.com/nikivdev/privacy-respecting](https://github.com/nikivdev/privacy-respecting)
