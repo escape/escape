@@ -10,7 +10,7 @@ Private blog and portfolio:
 [miromarion.com](https://miromarion.com)
 
 My startup (stealth):
-[reeva.org](https://brenta.io) 
+[brenta.io](https://brenta.io)
 
 ## My political views — as code
 
