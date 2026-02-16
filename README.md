@@ -18,8 +18,10 @@ Scroll down for the pinned projects I’m building for this mission
 
 ### ↓ Curated Resources
 
-Awesome Privacy
-[List of free, open source and privacy respecting services and alternatives to privative services.](https://github.com/pluja/awesome-privacy)
+#### Awesome Privacy
+
+List of free, open source and privacy respecting services and alternatives to privative services.
+[https://github.com/pluja/awesome-privacy](https://github.com/pluja/awesome-privacy)
 
 ![Copper sculpture of a deconstructed Statue of Liberty crown in geometric Music On logo form, displayed on a New York street, crafted between 2013 and 2019](musicon-nyc-2.jpg "Music On – Copper Sculpture, New York 2017")
 
