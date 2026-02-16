@@ -30,8 +30,8 @@ List of free, open source and privacy respecting services and alternatives to pr
 
 [https://github.com/pluja/awesome-privacy](https://github.com/pluja/awesome-privacy)
 
-#### Privacy Respecting
+#### Privacy Guides (disponibile anche in italiano)
 
-Curated List of Privacy Respecting Services and Software
+Privacy Guides is an impartial, non-profit organization that is focused on building a strong privacy advocacy community and delivering the best digital privacy and consumer technology rights advice on the internet.
 
-[https://github.com/nikivdev/privacy-respecting](https://github.com/nikivdev/privacy-respecting)
+[https://www.privacyguides.org/it/basics/why-privacy-matters/](https://www.privacyguides.org/it/basics/why-privacy-matters/)
