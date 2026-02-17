@@ -1,6 +1,6 @@
 # About
 
-## My political views — as code
+## [My political views — as code](https://github.com/escape#my-political-views--as-code-1) My political views — as code
 
 ## My work
 
