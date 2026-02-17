@@ -1,7 +1,5 @@
 # About
 
-## [My political views — as code](https://github.com/escape#my-political-views--as-code-1) My political views — as code
-
 ## My work
 
 ![Copper sculpture of a deconstructed Statue of Liberty crown in geometric Music On logo form, displayed on a New York street, crafted between 2013 and 2019](musicon-nyc-2.jpg "Music On – Copper Sculpture, New York 2017")
