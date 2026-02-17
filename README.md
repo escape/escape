@@ -20,7 +20,7 @@ We find ourselves in a gray zone straddling democracy and authoritarianism. The 
 
 ### ↓ My repos
 
-Scroll down for the pinned projects I’m building for this mission
+Scroll down for the pinned projects I’m building for this mission. Note: I'm not "vibe coding" here but rather just using AI to learn how to make things work and to glue them together at the infra level. If you are interested in vibe coding, I recommend the *MastroGPT 2026 Course* [MastroGPT 2026 Course](https://nuvolaris.io) by @Nuvolaris.
 
 ### ↓ Curated Resources
 
