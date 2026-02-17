@@ -16,7 +16,7 @@
 
 ## My political views — as code
 
-**We find ourselves in a gray zone straddling democracy and authoritarianism. The choice is ours.** Below, you’ll find tools to escape the manufactured realities and reclaim political power:
+**We stand in a gray zone between democracy and autocracy. The choice is ours.** See below for tools to understand, engage, and influence:
 
 ### ↓ My repos
 
