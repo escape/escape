@@ -20,7 +20,7 @@
 
 ### ↓ My repos
 
-**Scroll down for the pinned projects I’m building for this mission.** Note: I'm not "vibe coding" here but rather just using AI to learn how to make things work and to glue them together at the infra level. If you are interested in *real* vibe coding, I recommend the [MastroGPT 2026 Course](https://nuvolaris.io) by [@Nuvolaris](https://github.com/nuvolaris).
+**Scroll down for the pinned projects I’m building for this mission.** Note: I'm not vibe coding these projects. I’m just using free AI tools to figure out how to make things work, glue things together at the infrastructure level, and put together the essential documentation. If you are interested in vibe coding, I recommend the [MastroGPT 2026 Course](https://nuvolaris.io) by [@Nuvolaris](https://github.com/nuvolaris).
 
 ### ↓ Curated Resources
 
