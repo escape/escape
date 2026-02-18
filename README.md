@@ -4,6 +4,10 @@
 
 *Music On New York, 2017. Hand-crafted copper sculpture, 1m high, featuring a minimalist geometric interpretation of the Statue of Liberty crown merged with the Music On logo design. One of over 180 similar sculptures produced for Music On campaigns spanning 2013 to 2019.*
 
+## Contact
+
+[brenta.io](https://brenta.io/contact)
+
 ## My work
 
 ### Private blog and portfolio
