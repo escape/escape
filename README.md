@@ -6,7 +6,8 @@
 
 ## Contact
 
-[brenta.io/contact](https://brenta.io/contact)
+- **E‑mail**: `miromarion [at] pm [dot] me
+- **Website**: [brenta.io/contact](https://brenta.io/contact)
 
 ## My work
 
