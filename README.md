@@ -6,7 +6,7 @@
 
 ## Contact
 
-[brenta.io](https://brenta.io/contact)
+[brenta.io/contact](https://brenta.io/contact)
 
 ## My work
 
