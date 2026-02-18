@@ -16,7 +16,11 @@
 
 ## My political views — as code
 
-**We find ourselves in a gray zone straddling democracy and authoritarianism. The choice is ours.** See below for tools to understand, engage, empower civic engagement and uphold human rights — to escape manufactured realities and reclaim effective political power:
+**We find ourselves in a gray zone straddling democracy and authoritarianism.** 
+
+**The choice is ours.**
+
+See below for tools to understand, engage, empower civic engagement and uphold human rights — to escape manufactured realities and reclaim effective political power:
 
 ### ↓ My repos
 
