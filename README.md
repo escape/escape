@@ -29,7 +29,9 @@ See below for tools to understand, engage, empower civic engagement and uphold h
 
 ### ↓ My repos
 
-**Scroll down for the pinned projects I’m building for this mission.** Note: I'm not vibe coding these projects. I’m just using free AI tools to figure out how to make things work, glue things together at the infrastructure level, and put together the essential documentation. If you are interested in vibe coding, I recommend the [MastroGPT 2026 Course](http://n7s.co/aipp-course) by [@Nuvolaris](https://github.com/nuvolaris).
+**Scroll down for the pinned projects I’m building for this mission.** 
+
+*Note: I'm not vibe coding these projects. I’m just using free AI tools to figure out how to make things work, glue things together at the infrastructure level, and put together the essential documentation. If you are interested in vibe coding, I recommend the [MastroGPT 2026 Course](http://n7s.co/aipp-course) by [@Nuvolaris](https://github.com/nuvolaris).*
 
 ### ↓ (New, in progress) Curated Resources
 
