@@ -19,17 +19,17 @@
 
 [brenta.io](https://brenta.io)
 
-## My political views — as code
+## Everything is political
 
-**We find ourselves in a gray zone straddling democracy and authoritarianism.** 
+**We find ourselves in a gray zone straddling democracy and authoritarianism.**
 
 **The choice is ours.**
 
-See below for tools to understand, engage, empower civic engagement and uphold human rights — to escape manufactured realities and reclaim effective political power:
+See below for tools to understand, engage, empower civic engagement and uphold human rights, and to escape manufactured realities, and reclaim effective political power:
 
 ### ↓ My repos
 
-**Scroll down for the pinned projects I’m building for this mission.** 
+**Scroll down for the pinned projects I’m building for this mission.**
 
 *Note: I'm not vibe coding these projects. I’m just using free AI tools to figure out how to make things work, glue things together at the infrastructure level, and put together the essential documentation. If you are interested in vibe coding, I recommend the [MastroGPT 2026 Course](http://n7s.co/aipp-course) by [@Nuvolaris](https://github.com/nuvolaris).*
 
