@@ -7,7 +7,7 @@
 ## Contact
 
 - **E‑mail**: miromarion [at] pm [dot] me
-- **Website**: [brenta.io/contact](https://brenta.io/contact)
+- **Website**: [reeva.org/contact](https://reeva.org/contact)
 
 ## My work
 
@@ -17,7 +17,7 @@
 
 ### My startup (stealth)
 
-[brenta.io](https://brenta.io)
+[reeva.org](https://reeva.org)
 
 ## Everything is political
 
